@@ -9,4 +9,4 @@ ventas de una empresa.
 - Jupyter Notebook
 ## Autor
 Karen Jeannette Cortez Cerón 
-[LinkedIn](www.linkedin.com/in/karen-jeannette-cortez-cerón-a42aab39a)
+[LinkedIn]https://www.linkedin.com/in/karen-jeannette-cortez-cer%C3%B3n-a42aab39a/
